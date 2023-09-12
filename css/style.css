@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Gabriela);
+@import url("https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Indie+Flower&display=swap");
 
 html,
 body {
@@ -11,13 +11,13 @@ body {
     center no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: "Gloria Hallelujah", "Indie Flower", sans-serif;
   font-size: 100%;
 }
 
 .wrapper {
   margin: 0 auto;
-  width: 60%;
+  width: 80%;
   padding-bottom: 40px;
 }
 
@@ -28,7 +28,8 @@ body {
 
 h1,
 h2 {
-  font-family: "Gabriela", serif;
+  font-family: "Gloria Hallelujah", cursive;
+  font-family: "Indie Flower";
   color: #ffffff;
 }
 
@@ -38,15 +39,15 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
-  margin-top: 0.5em;
+  font-size: 16px;
+  margin-top: 5px;
 }
 
 h3 {
   font-family: "Gabriela", serif;
   font-size: 1.5em;
   margin-top: 0.5em;
-  color: lightgreen;
+  color: rgb(63, 177, 63);
 }
 
 img {
